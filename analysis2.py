@@ -12,7 +12,7 @@ start_time_config = 1754988801  # Set to None to use the earliest timestamp in d
 end_time_config = 1754994500    # Set to None to use the latest timestamp in data
 
 # --- Data Loading --- #
-with open("./BClasseSloten.json", "r") as f:
+with open("./Data/B-Match1-Hindelopen.json", "r") as f:
     data = json.load(f)
 
 # --- Pre-process data based on time configuration --- #
@@ -133,5 +133,6 @@ if speeds:
     # plt.show() # Don't show in headless environment
 
 print("Script finished. Check sailing_tracks_speed_map.html and average_speeds_bar_graph.png")
+
 
 
