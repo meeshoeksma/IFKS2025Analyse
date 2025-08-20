@@ -2,7 +2,7 @@ import json
 import folium
 
 # Load the JSON data
-with open("./BClasseSloten.json", "r") as f:
+with open("./Data/B-Match1-Hindelopen.json", "r") as f:
     data = json.load(f)
 
 # Calculate the center of the map
@@ -54,3 +54,4 @@ def print_all_keys(obj, prefix=''):
 
 # Use it after loading your JSON
 print_all_keys(data)
+
