@@ -1,0 +1,20 @@
+wedstrijd 1: Hindeloopen
+https://tt.zeilvaartwarmond.nl/get/?req=replay&event=IFKS/2025-08-09%20Hindeloopen/Klasse%20B
+
+wedstrijd 2: Stavoren
+https://tt.zeilvaartwarmond.nl/get/?req=replay&event=IFKS/2025-08-10%20Stavoren/Klasse%20B
+
+Wedstrijd 3: Sloten
+https://tt.zeilvaartwarmond.nl/get/?req=replay&event=IFKS/2025-08-12%20Sloten/Klasse%20B
+
+Wedstrijd 4: Echtenerbrug1
+https://tt.zeilvaartwarmond.nl/get/?req=replay&event=IFKS/2025-08-13%20Echtenerbrug/Klasse%20B
+
+Wedstrijd 5: Echtenerbrug2
+https://tt.zeilvaartwarmond.nl/get/?req=replay&event=IFKS/2025-08-14%20Echtenerbrug/Klasse%20B
+
+Wedstrijd 6: Lemmer 1
+https://tt.zeilvaartwarmond.nl/get/?req=replay&event=IFKS/2025-08-15%20Lemmer/Klasse%20B
+
+Wedstrijd 7: Lemmer 2
+https://tt.zeilvaartwarmond.nl/get/?req=replay&event=IFKS/2025-08-16%20Lemmer%20Finale/Klasse%20B
